@@ -1,1 +1,1 @@
-# codsoft-internship-porfolio
+# codsoft-internship-portfolio
